@@ -1,0 +1,9 @@
+.box ul li:nth-child(1){
+  list-style-type: square;
+}
+.box ul li:nth-child(2){
+  list-style-type: square;
+}
+.box ul li:last-child{
+  list-style-type: circle;
+}
